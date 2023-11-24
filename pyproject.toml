@@ -17,6 +17,7 @@ Changelog = "https://github.com/DiogenesAnalytics/modern-solvers/releases"
 [tool.poetry.dependencies]
 python = "^3.9"
 click = ">=8.0.1"
+pycosat = ">=0.6.6"
 
 [tool.poetry.group.dev]
 optional = true
